@@ -1,10 +1,10 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/240/non_2x/data-analysis-banner-vector.jpg)
+![MasterHead](https://wallpaperaccess.com/full/3959399.jpg)
 
 
 <h1 align="center">Hola 👋, soy Betsy</h1>
 <h3 align="center">Una apasionada analista de datos de Colombia</h3><p align="left"> <
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:724/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2457624/screenshots/5090180/___c.gif">
 
 <img src="https://komarev.com/ghpvc/?username=betsygon&label=Profile%20views&color=0e75b6&style=flat" alt="betsygon" /> </p>
 
