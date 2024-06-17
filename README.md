@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola 👋, soy Betsy</h1>
-<h3 align="center">Una apasionada analista de datos de Colombia</h3><p align="left"> <
+<h3 align="center">Una apasionada analista de datos de Colombia</h3><p align="left"> 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2457624/screenshots/5090180/___c.gif">
 
