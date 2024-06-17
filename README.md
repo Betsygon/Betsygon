@@ -12,9 +12,9 @@
 
 - 📫 Cómo contactarme **bmagagon@gmail.com**
 
-- ⚡ Dato curioso **Me gustan los gatos**<
+- ⚡ Dato curioso **Me gustan los gatos**
 
-h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/betsy-magaly-gonzalez-martinez-76328b2b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betsy-magaly-gonzalez-martinez-76328b2b2" height="30" width="40" /></a>
 </p>
