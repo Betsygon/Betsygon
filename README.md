@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=betsygon&label=Profile%20views&color=0e75b6&style=flat" alt="betsygon" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Aprendizaje por refuerzo,Análisis exploratorio con Python**
+- 🌱 Actualmente estoy aprendiendo **Reforzando el Análisis exploratorio con Python**
 
 - 📫 Cómo contactarme **bmagagon@gmail.com**
 
